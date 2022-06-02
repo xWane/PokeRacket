@@ -5,9 +5,9 @@
 
 Le projet a été réalisé avec 3 autres personnes / The project was carried out with 3 other people: :
 
-Anthony RINGRESSI => https://github.com/anthony-rgs
-Billy IEA => https://github.com/Numyu
-Louis ROCCA => https://github.com/LouisSleep
+-[Anthony RINGRESSI](https://github.com/anthony-rgs)
+-[Billy IEA](https://github.com/Numyu)
+-[Louis ROCCA](https://github.com/LouisSleep)
  
 
    Scénario : 
