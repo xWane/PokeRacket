@@ -1,3 +1,3 @@
 🇫🇷 : PokeRacket est le premier gros projet de ma 1ère année a HETIC , nous devions réaliser un RPG sur console avec Python et nous avions 1 mois pour le terminer , faites bien attention à avoir installer keyboard avant pour pouvoir jouer au jeu . Au cas-ou, voici un tuto pour l'installer : https://pypi.org/project/keyboard/
 
-🇬🇧: PokeRacket is the first big project of my 1st year at HETIC, we had to make a console RPG with Python and we had 1 month to finish it, be careful to have keyboard installed before to be able to play the game. In case , there is a tuto to install it: https://pypi.org/project/keyboard/
+🇬🇧: PokeRacket is the first big project of my 1st year at HETIC, we had to make a console RPG with Python and we had 1 month to finish it, be sure to have keyboard installed before to be able to play the game. In case , there is a tuto to install it: https://pypi.org/project/keyboard/
